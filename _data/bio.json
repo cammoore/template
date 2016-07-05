@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Cam Moore",
+    "name": "Carleton (Cam) Moore",
     "label": "Assistant Professor",
     "picture": "https://cammoore.github.io/images/cam-moore.jpg",
     "email": "cmoore@hawaii.edu",
@@ -37,6 +37,11 @@
       "name": "Web Development",
       "keywords": [
       ]
+    },
+    {
+      "name": "Educating Students",
+      "keywords": [
+      ]
     }
   ],
   "skills": [
@@ -44,12 +49,11 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
         "Java",
-        "Javascript",
-        "Common Lisp",
-        "Python"
+        "ECMAScript",
+        "Python",
+        "C++",
+        "Common Lisp"
       ]
     },
     {
@@ -67,7 +71,7 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "University of Hawaii, Manoa, HI",
       "area": "Communication and Information Sciences",
       "studyType": "Ph.D.",
       "startDate": "1996-08-12",
@@ -77,11 +81,21 @@
       ]
     },
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "University of Hawaii, Manoa, HI",
       "area": "Information and Computer Sciences",
       "studyType": "M.S.",
       "startDate": "1993-01-15",
       "endDate": "1995-05-13",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Colorado, Boulder, CO",
+      "area": "Electrical Engineering and Computer Science",
+      "studyType": "B.S.",
+      "startDate": "1983-09-01",
+      "endDate": "1988-05-13",
       "gpa": "",
       "courses": [
       ]
@@ -91,7 +105,7 @@
     {
       "company": "Department of Information and Computer Sciences at the University of Hawaii",
       "position": "Assistant Professor",
-      "website": "",
+      "website": "http://www.ics.hawaii.edu/",
       "startDate": "2013-09-01",
       "endDate": "Present",
       "summary": "Teaching ICS 111, 211, 215 and 415",
@@ -102,7 +116,7 @@
       "company": "Collaborative Software Development Laboratory, (CSDL)",
       "position": "Senior Software Engineering Researcher",
       "website": "http://csdl.ics.hawaii.edu/",
-      "startDate": "2012-02-01",
+      "startDate": "2011-12-31",
       "endDate": "2013-12-31",
       "summary": "Helped design, develop and test Makahiki2 an open source serious game engine for sustainabliity.",
       "highlights": [
@@ -112,11 +126,112 @@
       "company": "Lockheed Martin",
       "position": "Senior Software Engineer",
       "website": "http://www.lockheedmartin.com",
-      "startDate": "2011-01-01",
+      "startDate": "2004-02-01",
       "endDate": "2011-11-01",
       "summary": "Software Engineer on various projects.",
       "highlights": [
       ]
+    },
+    {
+      "company": "Orincon",
+      "position": "Senior Software Engineer",
+      "startDate": "2000-11-01",
+      "endDate": "2004-02-01",
+      "summary": "Software Engineer on various Information Assurance projects.",
+      "highlights": [
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "name": "Makahiki: An open source serious game framework for sustainability education and conservation",
+      "author": "Y. Xu, P. Johnson, G. Lee, C. Moore, R. Brewer",
+      "type": "conference",
+      "publisher": "Proceedings of the 2014 International Conference on Sustainability, Technology, and Education",
+      "releaseDate": "December, 2014",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "Three principals for the design of energy feedback visualizations",
+      "author": "R.Brewer, Y. Xu, G. Lee, M. Katchuck, C. Moore, P. Johnson",
+      "type": "journal",
+      "publisher": "International Journal on Advances in Intelligent Systems",
+      "releaseDate": "December, 2013",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "Energy Feedback for Smart Grid Consumers: Lessons Learned from the Kukui Cup",
+      "author": "R. Brewer, Y. Xu, G. Lee, M. Katchuck, C. Moore, P. Johnson",
+      "type": "conference",
+      "publisher": "Proceedings of Energy 2013",
+      "releaseDate": "March 2013",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "Makahiki+WattDepot: An open source software stack for next generation energy research and education",
+      "author": "P. Johnson, Y Xu, R. Brewer, C. Moore, G. Lee, A. Conell",
+      "type": "conference",
+      "publisher": "Proceedings of the 2013 Conference on Information and Communication Technologies for Sustainability (ICT4S)",
+      "releaseDate": "February 2013",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "Beyond kWh: Myths and fixes for energy competition game design",
+      "author": "P. Johnson, Y Xu, R. Brewer, G. Lee, M. Katchuck, C. Moore",
+      "type": "conference",
+      "publisher": "Proceedings of Meaningful Play 2012",
+      "releaseDate": "October 2012",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "Empirically Guided Software Effort Guesstimation",
+      "author": "P. Johnson, C. Moore, J. Dane, R. Brewer",
+      "type": "journal",
+      "publisher": "IEEE Software, Vol. 17, No. 6",
+      "releaseDate": "December 2000",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "Lessons Learned from Teaching Reflective Software Engineering using the Leap Toolkit",
+      "author": "C. Moore",
+      "type": "conference",
+      "publisher": "Proceedings of the 2000 International Conference on Software Engineering, Workshop on Software Engineering Education",
+      "releaseDate": "May 2000",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "Project LEAP: Addressing Measurement Dysfunction in Review",
+      "author": "C. Moore",
+      "type": "conference",
+      "publisher": "Proceedings of the Eighth International Conference on Human-Computer Interaction",
+      "releaseDate": "August 1999",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "Project LEAP: Personal Process Improvement for the Differently Disciplined",
+      "author": "C. Moore",
+      "type": "conference",
+      "publisher": "Proceedings of the Doctoral Workshop from the 1999 International Conference on Software Engineering",
+      "releaseDate": "May 1999",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "Investigating Strong Collaboration with the Annotated Egret Navigator",
+      "author": "P. Johnson, C. Moore",
+      "type": "conference",
+      "publisher": "Proceedings of the Fourth IEEE Workshop on Enabling Technologies: Infrastructure for Collaborative Enterprises (WET-ICE '95)",
+      "releaseDate": "April 1995",
+      "website": "",
+      "summary": ""
     }
   ],
   "volunteer": [
