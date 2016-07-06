@@ -1,4 +1,6 @@
 <!-- Home page design with large image to left of bio info. -->
+{% assign essay_pages = site.pages | where: "type", "essay"  %}
+{% assign project_pages = site.pages | where: "type", "project" %}
 
 <div style="height: 100%;" class="ui middle aligned two column centered stackable grid container">
 
@@ -23,12 +25,16 @@
       {% include home-network-links.html %}
     </p>
     <p style="text-align: center">
+      {% if project_pages.size > 0 %}
       <a href="{{ site.baseurl}}/projects/">
         <button class="ui basic button">Projects</button>
       </a>
+      {% endif %}
+      {% if essay_pages.size > 0 %}
       <a href="{{ site.baseurl}}/essays/">
         <button class="ui basic button">Essays</button>
       </a>
+      {% endif %}
       <a href="{{ site.baseurl}}/bio/">
         <button class="ui basic button">{{ site.bio-page-label }}</button>
       </a>
