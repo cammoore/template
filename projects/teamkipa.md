@@ -8,7 +8,7 @@ permalink: projects/teamkipa
 date: 2016-09-01 - 2016-09-24
 labels:
   - Meteor
-summary: Improving visitation scheduling for Oahu Community Correctional Center using Web applications and SMS messaging.
+summary: Improving visitation scheduling for Oahu Community Correctional Center using Web applications and SMS messaging. Part of the Honolulu Annual Code Challenge, 2016.
 projecturl: https://hacc2016.github.io/teamkipa/
 ---
 
