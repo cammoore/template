@@ -27,16 +27,12 @@
       {% include home-network-links.html %}
     </p>
     <p style="text-align: center">
-      {% if project_pages.size > 0 %}
       <a href="{{ site.baseurl}}/projects/">
         <button class="ui basic button">Projects ({{ num_projects }})</button>
       </a>
-      {% endif %}
-      {% if essay_pages.size > 0 %}
       <a href="{{ site.baseurl}}/essays/">
         <button class="ui basic button">Essays ({{ num_essays }})</button>
       </a>
-      {% endif %}
       <a href="{{ site.baseurl}}/bio/">
         <button class="ui basic button">{{ site.bio-page-label }}</button>
       </a>

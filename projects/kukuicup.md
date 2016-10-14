@@ -5,19 +5,13 @@ published: true
 image: images/kukuicup.jpg
 title: Kukui Cup
 permalink: projects/kukuicup
-date: 2010-present
+date: 2010
 labels:
   - Python
   - Django
   - WattDepot
-summary: Using information technology, serious games, and educational pedagogy to support long-term change in sustainability-related behaviors.
+  - Serious Games
+summary: The Kukui Cup project explores how information technology, serious games, and educational pedagogy can support long-term change in sustainability-related behaviors.
 projecturl: http://kukuicup.org
 ---
-
-The Kukui Cup Project  explores novel ways to utilize concepts from information technology, community-based social marketing, serious games, and educational pedagogy to support sustained change in sustainability-related behaviors.
-
-The following video is a presentation Dr. Johnson gave at the [2011 Conference on Behavior, Energy, and Climate Change](http://peec.stanford.edu/events/2011/becc/index.php) on the use of gamification techniques in the Kukui Cup:
-
-<div class="ui embed" data-source="youtube" data-id="zHb_KNONEx4">
-</div>
 
