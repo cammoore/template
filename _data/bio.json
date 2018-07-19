@@ -65,7 +65,9 @@
         "Ubuntu",
         "Git/GitHub",
         "Intellij IDEA",
-        "Emacs"
+        "Emacs",
+        "Meteor",
+        "React"
       ]
     }
   ],
