@@ -51,6 +51,7 @@
       "keywords": [
         "Java",
         "ECMAScript",
+        "Typescript",
         "Python",
         "C++",
         "Common Lisp"
@@ -110,7 +111,7 @@
       "website": "http://www.ics.hawaii.edu/",
       "startDate": "2013-09-01",
       "endDate": "Present",
-      "summary": "Teaching ICS 111, 211, 215 and 415",
+      "summary": "Teaching ICS 111, 211, 215, 314 and 415",
       "highlights": [
       ]
     },
